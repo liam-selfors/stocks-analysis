@@ -16,7 +16,7 @@ Steve is a recent Finance graduate who is helping his parents put together an in
 
 ![Excel MsgBox Screenshot: 2017 Analysis Elapsed Time](Resources/VBA_Challenge_2017.PNG)
 
-![Excel MsgBox Screenshot: 2018 Analysis Elapsed Time](Resources/VBA_Challenge_2018.png)
+![Excel MsgBox Screenshot: 2018 Analysis Elapsed Time](Resources/VBA_Challenge_2018.PNG)
 
 ## Summary
 
