@@ -32,13 +32,13 @@ Across the year 2017, all but one (TERP) of the tickers considered in the data s
 
 Across the year 2018, all but two (*ENPH* and *RUN*) of the tickers considered in the data saw a net **decrease**. The highest total daily volume of 607,473,500 was recorded for *ENPH*.
 
-![Table of 2018 results from refactored macro](Resource/VBA_Challenge_2018_Results.png)
+![Table of 2018 results from refactored macro](Resources/VBA_Challenge_2018_Results.PNG)
 
 #### Code Efficiency
 
 The 2017 data was pulled in *0.1054688* seconds, and the 2018 data was pulled in *0.109375* seconds. The 2017 data pull was completed about 3.6% faster than the 2018 data.
 
-![Processing time to pull 2017 stocks data with refactored macro](Resource/VBA_Challenge_2017.png)
+![Processing time to pull 2017 stocks data with refactored macro](Resources/VBA_Challenge_2017.PNG)
 
 ![Processing time to pull 2018 stocks data with refactored macro](Resources/VBA_Challenge_2018.PNG)
 
